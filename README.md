@@ -11,7 +11,7 @@ that supports plugin bundles.)
 
     $ mkdir -p ~/.rbenv/plugins
     $ cd ~/.rbenv/plugins
-    $ git clone https://github.com/collinschaafsma/rbenv-rbx_2.0.0-dev_fix.git
+    $ git clone git://github.com/taiki45/rbenv-rbx_2.0.0-dev_fix.git
 
 ## License
 
